@@ -3,8 +3,8 @@
 How to Run
 Install Dependencies:
 
-bash
-Copy
+bash		
+Copy	
 pip install requests fake-useragent bip-utils
 Prepare Files:
 
